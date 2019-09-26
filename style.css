@@ -1,0 +1,60 @@
+body {
+  background-color: #1c1c1a;
+  color: white;
+}
+
+#title {
+  text-align: center;
+}
+
+#nav {
+  border: solid;
+  width: 96.5%;
+  padding: 25px;
+  display: inline;
+  float: left;
+}
+
+.navlink {
+  border: solid;
+  padding: 25px;
+  display: inine;
+  float: left;
+}
+
+.project:hover, .project:active {
+  box-shadow: inset 0 0 10px white;
+}
+
+#project1 {
+  background-color: #363636;
+  border: solid;
+  padding: 25px;
+  display: inine;
+  float: left;
+  width: 25%;
+  height: 200px;
+  position: relative;
+  left: 20px;
+  top: 50px;
+}
+
+#project2 {
+  background-color: #363636;
+  border: solid;
+  padding: 25px;
+  display: inine;
+  float: left;
+  width: 25%;
+  height: 150px;
+}
+
+#project3 {
+  background-color: #363636;
+  border: solid;
+  padding: 25px;
+  display: inine;
+  float: left;
+  width: 25%;
+  height: 270px;
+}
