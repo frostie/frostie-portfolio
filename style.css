@@ -29,6 +29,7 @@ body {
 #project1 {
   background-color: #363636;
   border: solid;
+  border-radius: 10px;
   padding: 25px;
   display: inine;
   float: left;
@@ -42,6 +43,7 @@ body {
 #project2 {
   background-color: #363636;
   border: solid;
+  border-radius: 10px;
   padding: 25px;
   display: inine;
   float: left;
@@ -55,6 +57,7 @@ body {
 #project3 {
   background-color: #363636;
   border: solid;
+  border-radius: 10px;
   padding: 25px;
   display: inine;
   float: left;
