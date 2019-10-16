@@ -1,8 +1,8 @@
 # frostie-portfolio
-A portfolio web template. Check it out at: https://codepen.io/frostie-dev
+I'm working on a portfolio web template that will eventually showcase all of my music and front-end dev projects. Check it out at: https://codepen.io/frostie-dev
 
 ## Next Actions
-- Add personal projects to the site
+- Add JavaScript interactions
 
 ## A Closer Look
 
