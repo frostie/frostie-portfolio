@@ -3,6 +3,9 @@ I'm working on a portfolio web template that will eventually showcase all of my 
 
 Currently, the code only contains HTML/CSS.
 
+## DevLog
+- Oct 16: Added smooth scrolling with jQuery
+
 ## Next Actions
 - Add JavaScript interactions
 
