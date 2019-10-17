@@ -13,6 +13,7 @@ I'm working on a portfolio web template that will showcase all of my music and f
 
 ## Issues
 - JavaScript smooth scrolling doesn't work on mobile (iOS)
+- Back-to-top button's fixed positioning isn't working on mobile (iOS)
 - Page isn't centered on certain screen sizes
 
 ## Next Actions
