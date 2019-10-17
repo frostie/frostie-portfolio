@@ -5,6 +5,7 @@ I'm working on a portfolio web template that will eventually showcase all of my 
 - Oct 16: Added smooth scrolling with jQuery
 
 ## Next Actions
+- Add back-to-top button
 - Add projects to site
 
 ## A Closer Look
