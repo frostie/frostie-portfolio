@@ -8,7 +8,7 @@ I'm working on a portfolio web template that will showcase all of my music and f
 - A 'Contact' form
 
 ## DevLog
-- Oct 16: Added smooth scrolling with jQuery
+- Oct 16: Added smooth scrolling to nav links with jQuery
 - Oct 17: Added back-to-top button
 
 ## Issues
