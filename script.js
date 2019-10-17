@@ -15,3 +15,14 @@ $(document).ready(function() {
     }
   });
 });
+
+// Test: Popup msg when user hovers over Project 1
+var project = document.querySelector("#project1");
+
+project.addEventListener("mouseenter", mouseEnterContainer);
+
+function mouseEnterContainer() {
+  alert("I've been triggered!");
+}
+
+// TBD: Write function for the back-to-top smooth scroll
