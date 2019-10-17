@@ -1,8 +1,13 @@
 # frostie-portfolio
 I'm working on a portfolio web template that will showcase all of my music and front-end dev projects. Check out the prototype: https://codepen.io/frostie-dev/pen/qBWvwVb
 
+## Style
+- Single-page website
+- 
+
 ## DevLog
 - Oct 16: Added smooth scrolling with jQuery
+- Oct 17: Added back-to-top placeholder button without functionality
 
 ## Issues
 - JavaScript smooth scrolling doesn't work on mobile (iOS)
