@@ -19,6 +19,7 @@ I'm working on a portfolio web template that will showcase all of my music and f
 ## Next Actions
 - Add smooth scrolling to back-to-top button
 - Add projects to site
+- Clean up code
 
 ## A Closer Look
 
