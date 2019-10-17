@@ -20,7 +20,7 @@ I'm working on a portfolio web template that will showcase all of my music and f
 - Add smooth scrolling to back-to-top button
 - Add projects to site
 - Add info to each thumbnail when hovering over
-- Clean up code
+- Refactor code
 
 ## A Closer Look
 
