@@ -1,3 +1,5 @@
+// --> Smooth scrolling
+
 $(document).ready(function(){
   // Add smooth scrolling to all links
   $("a").on('click', function(event) {
@@ -23,7 +25,8 @@ $(document).ready(function(){
   });
 });
 
-// Popup msg when user hovers over Project 1
+// --> Popup msg when user hovers over Project 1
+
 var project = document.querySelector("#project1");
 
 project.addEventListener("mouseenter", mouseEnterContainer);
@@ -32,7 +35,7 @@ function mouseEnterContainer() {
   alert("O no! I've been triggered!");
 }
 
-// Back-to-top smooth scroll
+// --> Back-to-top smooth scroll
 
 mybutton = document.getElementById("bttbtn");
 
