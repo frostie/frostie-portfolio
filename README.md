@@ -8,7 +8,7 @@ I'm working on a portfolio web template that will eventually showcase all of my 
 - JavaScript smooth scrolling doesn't work on mobile (iOS)
 
 ## Next Actions
-- Add back-to-top button
+- Add functional back-to-top button
 - Add projects to site
 
 ## A Closer Look
