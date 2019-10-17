@@ -1,5 +1,5 @@
 # frostie-portfolio
-I'm working on a portfolio web template that will showcase all of my music and front-end dev projects. Check out the prototype: https://codepen.io/frostie-dev
+I'm working on a portfolio web template that will showcase all of my music and front-end dev projects. Check out the prototype: https://codepen.io/frostie-dev/pen/qBWvwVb
 
 ## DevLog
 - Oct 16: Added smooth scrolling with jQuery
