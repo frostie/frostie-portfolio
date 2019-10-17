@@ -3,7 +3,9 @@ I'm working on a portfolio web template that will showcase all of my music and f
 
 ## Style
 - Single-page website
-- 
+- Simple theme with thumbnails to showcase projects; broken into music and dev sections
+- An 'About' section to briefly outline career and educational background
+- A 'Contact' form
 
 ## DevLog
 - Oct 16: Added smooth scrolling with jQuery
