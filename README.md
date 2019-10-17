@@ -4,6 +4,9 @@ I'm working on a portfolio web template that will eventually showcase all of my 
 ## DevLog
 - Oct 16: Added smooth scrolling with jQuery
 
+## Issues
+- JavaScript smooth scrolling doesn't work on mobile (iOS)
+
 ## Next Actions
 - Add back-to-top button
 - Add projects to site
