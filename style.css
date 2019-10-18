@@ -8,7 +8,6 @@ body {
 }
 
 #header-bg {
-  /*border: solid;*/
   position: fixed;
   top: 0;
   bottom: 0;
@@ -23,18 +22,21 @@ body {
 
 #title {
   /*border: solid;*/
+  width: 100%;
   text-align: center;
   font-size: 400%;
-  padding: 5%;
-  margin: 5%;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  margin-top: 5%;
 }
 
 #divParent {
-  /*border: solid;*/
-  width: 90%;
+ /*border: solid;*/
+  background-color: #363636;
+  width: 100;
   height: auto;
   display: inline-block;
-  margin: 5%;
+  margin-top: 10%;
 }
 
 nav {
@@ -65,7 +67,7 @@ a {
 }
 
 a:hover {
-  font-size: 95%;
+  font-size: 99%;
   color: cyan;
   opacity: 0.5;
 }
@@ -124,6 +126,8 @@ a:hover {
 
 #bttbtn {
   position: fixed;
+  height: 50px;
+  width: 50px;
   bottom: 3%;
   right: 1.7%;
   background-color: white;
