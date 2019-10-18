@@ -24,4 +24,4 @@ I'm working on a portfolio web template that will showcase all of my music and f
 
 ## A Closer Look
 
-![alt_text](https://github.com/frostie/frostie-portfolio/blob/master/frostie-portfolio.jpg)
+![alt_text](https://github.com/frostie/frostie-portfolio/blob/master/frostie-portfolio%20(2).jpg)
