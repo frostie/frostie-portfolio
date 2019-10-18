@@ -1,4 +1,7 @@
 # frostie-portfolio
+
+![alt_text](https://github.com/frostie/frostie-portfolio/blob/master/frostie-portfolio%20(2).jpg)
+
 I'm working on a portfolio web template that will showcase all of my music and front-end dev projects. Check out the prototype: https://codepen.io/frostie-dev/pen/qBWvwVb
 
 ## Style
@@ -21,7 +24,3 @@ I'm working on a portfolio web template that will showcase all of my music and f
 - Add projects to site
 - Add info to each thumbnail when hovering over
 - Refactor code
-
-## A Closer Look
-
-![alt_text](https://github.com/frostie/frostie-portfolio/blob/master/frostie-portfolio%20(2).jpg)
