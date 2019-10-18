@@ -25,7 +25,7 @@ $(document).ready(function(){
   });
 });
 
-// --> Popup msg when user hovers over Project 1
+/* --> Popup msg when user hovers over Project 1
 
 var project = document.querySelector("#project1");
 
@@ -33,7 +33,7 @@ project.addEventListener("mouseenter", mouseEnterContainer);
 
 function mouseEnterContainer() {
   alert("O no! I've been triggered!");
-}
+}*/
 
 // --> Back-to-top smooth scroll
 
