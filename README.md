@@ -20,7 +20,6 @@ I'm working on a portfolio web template that will showcase all of my music and f
 - Page isn't centered on certain screen sizes
 
 ## Next Actions
-- Add smooth scrolling to back-to-top button
 - Add projects to site
 - Add info to each thumbnail when hovering over
 - Refactor code
