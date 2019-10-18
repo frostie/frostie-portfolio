@@ -1,6 +1,6 @@
 # frostie-portfolio
 
-![alt_text](https://github.com/frostie/frostie-portfolio/blob/master/frostie-portfolio%20(2).jpg)
+![alt_text](https://github.com/frostie/frostie-portfolio/blob/master/frostie-portfolio.JPG)
 
 I'm working on a portfolio web template that will showcase all of my music and front-end dev projects. Check out the prototype: https://codepen.io/frostie-dev/pen/qBWvwVb
 
