@@ -13,6 +13,7 @@ I'm working on a portfolio web template that will showcase all of my music and f
 ## DevLog
 - Oct 16: Added smooth scrolling to nav links with jQuery
 - Oct 17: Added back-to-top button
+- Oct 21: Started concept 2 of the portfolio website
 
 ## Issues
 - JavaScript smooth scrolling doesn't work on mobile (iOS)
