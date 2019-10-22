@@ -22,14 +22,10 @@ body {
  /*border: solid;*/
   background: #171717;
   border-radius: 10px;
-  width: 100%;
+  width: 95%;
   padding: 2%;
   height: auto;
   display: inline-block;
-}
-
-#music {
-  background-color: gray;
 }
 
 nav {
