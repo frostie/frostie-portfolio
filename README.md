@@ -3,7 +3,10 @@ Concept 1:
 
 ![alt_text](https://github.com/frostie/frostie-portfolio/blob/master/frostie-portfolio.JPG)
 
-I'm working on a portfolio web template that will showcase all of my music and front-end dev projects. Check out the prototype: https://codepen.io/frostie-dev/pen/qBWvwVb
+I'm working on a portfolio web template that will showcase all of my music and front-end dev projects. Check out the prototype: 
+
+Concept 1: https://codepen.io/frostie-dev/pen/qBWvwVb
+Concept 2: https://codepen.io/frostie-dev/pen/WNNRQvy
 
 ## Style
 - Single-page website
