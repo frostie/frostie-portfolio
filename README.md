@@ -5,7 +5,7 @@ Concept 1:
 
 I'm working on a portfolio web template that will showcase all of my music and front-end dev projects. Check out the prototype: 
 
-Concept 1: https://codepen.io/frostie-dev/pen/qBWvwVb
+Concept 1: https://codepen.io/frostie-dev/pen/qBWvwVb <br>
 Concept 2: https://codepen.io/frostie-dev/pen/WNNRQvy
 
 ## Style
