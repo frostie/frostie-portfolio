@@ -22,7 +22,7 @@ Concept 2: https://codepen.io/frostie-dev/pen/WNNRQvy
 ## Issues
 - JavaScript smooth scrolling doesn't work on mobile (iOS)
 - Back-to-top button's fixed positioning isn't working on mobile (iOS)
-- Page isn't centered on certain screen sizes
+- Thumbnails in #divParent don't automatically center when screen size changes
 
 ## Next Actions
 - Add projects to site
