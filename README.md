@@ -2,10 +2,7 @@
 I'm working on a portfolio web template that will showcase all of my music and front-end dev projects. Check out the prototype: 
 
 Concept 1: https://codepen.io/frostie-dev/pen/qBWvwVb <br>
-
-![alt_text](https://github.com/frostie/frostie-portfolio/blob/master/frostie-portfolio.JPG)
-
-Concept 2: https://codepen.io/frostie-dev/pen/WNNRQvy
+Concept 2 (current): https://codepen.io/frostie-dev/pen/WNNRQvy
 
 ![alt_text](https://github.com/frostie/frostie-portfolio/blob/master/frostie-portfolio%20(2).JPG)
 
