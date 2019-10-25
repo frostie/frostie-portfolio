@@ -8,7 +8,7 @@ Concept 2 (current): https://codepen.io/frostie-dev/pen/WNNRQvy
 
 ## Style
 - Single-page website
-- Simple theme with thumbnails to showcase projects; broken into music and dev sections
+- Simple dark theme with thumbnails to showcase projects; broken into music and dev sections
 - An 'About' section to briefly outline career and educational background
 - A 'Contact' form
 
