@@ -3,6 +3,10 @@ Concept 1:
 
 ![alt_text](https://github.com/frostie/frostie-portfolio/blob/master/frostie-portfolio.JPG)
 
+Concept 2:
+
+![alt_text](https://github.com/frostie/frostie-portfolio/blob/master/frostie-portfolio%20(2).JPG)
+
 I'm working on a portfolio web template that will showcase all of my music and front-end dev projects. Check out the prototype: 
 
 Concept 1: https://codepen.io/frostie-dev/pen/qBWvwVb <br>
