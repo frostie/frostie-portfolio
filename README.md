@@ -16,6 +16,7 @@ Concept 2 (current): https://codepen.io/frostie-dev/pen/WNNRQvy
 - Oct 16: Added smooth scrolling to nav links with jQuery
 - Oct 17: Added back-to-top button
 - Oct 21: Started concept 2 of the portfolio website
+- Oct 25: Centered project thumbnails
 
 ## Issues
 - JavaScript smooth scrolling doesn't work on mobile (iOS)
