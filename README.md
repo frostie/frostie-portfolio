@@ -23,6 +23,7 @@ Concept 2 (current): https://codepen.io/frostie-dev/pen/WNNRQvy
 - Back-to-top button's fixed positioning isn't working on mobile (iOS)
 
 ## Next Actions
+- Add special font family
 - Add projects to site
 - Add info to each thumbnail when hovering over
 - Refactor code
